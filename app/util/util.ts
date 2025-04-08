@@ -7,7 +7,6 @@ export const SiteDetails = {
     "favicon": "/favicon.ico",
     "logo": "/asset/logo.png",
     "links": {
-        "github": "https://github.com/Encode42/flags.sh",
-        "support": "https://encode42.dev/support"
+        "github": "https://github.com/YouHaveTrouble/flags.sh"
     }
 };

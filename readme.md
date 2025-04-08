@@ -18,6 +18,8 @@ Includes many configuration options such as Aikar's flags, automatic restarting,
 
 Inspired by [startmc.sh](https://startmc.sh), built with [Blitz.js](https://blitzjs.com) and [Mantine UI](https://mantine.dev).
 
+Original project by [Encode42](https://github.com/Encode42/flags.sh).
+
 ### 🔨 Building
 Ensure [Yarn](https://yarnpkg.com) and [Node.js](https://nodejs.org/en) are installed.
 
