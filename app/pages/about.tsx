@@ -50,7 +50,6 @@ function About() {
                                 <Text>
                                     Finally, put the generated script into action! You can either copy the script from the results window, or hit the download button to get a ready script.
                                 </Text>
-                                <Text>You can join the <Anchor href={SiteDetails.links.support}>Discord server</Anchor> if you're still running into issues.</Text>
                             </Group>
                             <Group direction="column" spacing="xs">
                                 <Title order={2}>Contribute</Title>

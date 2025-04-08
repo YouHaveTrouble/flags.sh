@@ -1,7 +1,5 @@
 [Website]: https://flags.sh
 [Website Badge]: https://img.shields.io/badge/Website-202b38?labelColor=202b38&logo=html5&logoColor=white&style=flat-square
-[Support]: https://encode42.dev/support
-[Support Badge]: https://img.shields.io/discord/646517284453613578?color=7289da&labelColor=7289da&label=​&logo=discord&logoColor=white&style=flat-square
 [Codacy]: https://app.codacy.com/gh/Encode42/flags.sh/dashboard
 [Codacy Badge]: https://img.shields.io/codacy/grade/fcab733f761c4c09a0216f89feb95797?color=172B4D&labelColor=172B4D&label=​&logo=codacy&style=flat-square
 
@@ -12,7 +10,7 @@
 # flags.sh
 ### A simple script generator to start your Minecraft servers with optimal flags.
 
-[![][Website Badge]][Website] [![][Support Badge]][Support]  
+[![][Website Badge]][Website]
 [![][Codacy Badge]][Codacy]
 </div>
 
